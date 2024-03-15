@@ -1,1 +1,1 @@
-8-bit computer I made as a personal project.
+8-bit computer I'm making as a personal project.
